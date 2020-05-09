@@ -145,7 +145,7 @@ http://203.153.218.28:9981/stream/channelid/1299824667
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="http://gg.gg/hbo-hits-logo" group-title="Movies",HBO Hits
-http://203.153.218.28:9981/stream/channelid/1316004766
+http://203.153.218.28:9981/stream/channelid/2038175895
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="Movies",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Movies",AXN
