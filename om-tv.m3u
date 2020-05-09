@@ -173,7 +173,9 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHq0Zybk/nat-Geo-pople.png" group-title="Learning",Nat Geo People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vThr4c34/Nat-geo-wild.png" group-title="Learning",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+https://gitlab.com/just_is/iptv/-/raw/master/TV-ku/NatGeo-ku
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vThr4c34/Nat-geo-wild.png" group-title="Learning",Nat Geo Wild ID
+https://gitlab.com/just_is/iptv/-/raw/master/TV-ku/NatGeoWild-ku
 
 #VOD
 #WarkopDKI
