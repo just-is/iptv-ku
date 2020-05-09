@@ -1,110 +1,19 @@
 #EXTM3U
 
-#zalindo
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-https://dl.dropbox.com/s/faieorutykcu29p/cham2.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-https://dl.dropbox.com/s/1qvilgw0so22gbh/cham.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-https://dl.dropbox.com/s/knv0qbwo11j14qt/use2.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",prem-3
-http://13.250.204.68/session/usee_tv/dakocan-premium/fs3.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",prem-2
-http://13.250.204.68/session/usee_tv/dakocan-premium/fs2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",prem-1
-http://13.250.204.68/session/usee_tv/dakocan-premium/fs1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Warner
-https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Galaxy
-https://dl.dropbox.com/s/dolswngu7t4xd9e/galaxi.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",FLIK
-https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",IMC
-https://cdnbal1.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng_enc=JPBxYO83_ebZByMY9LTGFA.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=93D769EAB3B1D37C526EF293E7247EAA368042FC&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=873D54D5C7D80531C55C5957338BB36842E10E95&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Discovery
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://203.153.218.28:9981/stream/channelid/391618553?ticket=EF9620DAF73176947D92EA2BD20C3AF456F02309&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",ANTV
-http://210.210.155.35/session/17fd9730-7161-11ea-8ff9-b82a72d63267/x6bnqe/s/s254/index100.m3u8?app_type=web&userid=y21y90mvt7&tkn=TCD2CMUJBW6LK00UTSESAMBPR4EY5SU9&chname=antv
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://45.126.83.51/qwr9ew/s/s50/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Masjid-Nabawi
 http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Masjid-AlHaram
 http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Waku-Waku
-https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_80932.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Thrill
+http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Sinema Indonesia
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",None
-http://103.27.206.124:28080/hls/live.stream.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",AFC
-https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",tvN Movies
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",KBS
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",SBS HD
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",SBS-Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",SBS
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Gem
-https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",One
-https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",KPlus
-https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1091988068_b894100_sleng_80941.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",tvN
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Nick
-https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Gem Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Gem Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Dunia Anak
-https://dl.dropbox.com/s/8lcdbexpr0zcgu3/anak.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",HD
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Indosiar
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",SCTV
-https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",ANTV
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",TVRI
-https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1749115649_b684100_sleng_92614.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",GTV
-http://3.0.93.95:25461/ZALINDO/LOKAL/49
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia", NICK
-https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Fox Sport
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Fox Sport 2
-https://cdnmdc1.useetv.com/joss/15/foxsport2/chunklist_w1843670031_b684100_sleng_enc=0mnw-vu_-tYisiS4VjqDnw.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",History
-https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Fox Sport 3
-https://cdnkbl1.useetv.com/joss/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",Animax
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #Pakde
 
