@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://www.japcnc.com/wp-content/uploads/2019/08/logo-home.png" group-title="ZALTV", Happy Wacthing & Enjoy Your Life #JAP
-https://www.googleapis.com/drive/v3/files/1cXMaEkXoZthanPAeFrUi2qTn9gJNuyfP?alt=media&key=AIzaSyDJp-UhXF7CKhYnB1tmRbI4b4x9ugyQLqQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589204860/ei/HAO5XsHbFsSavwTU46SYCQ/ip/103.78.96.39/id/BglVKmWgXVY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ6tBEXydL2RBMVxAM8CCpMkr18DL3oC5t3w_SBs96eSAiEAvGWxqIi-3qkzLxnnVg8042fe4Irny9RG0rXxPTmS9b0%3D/file/index.m3u8
 
 #Indo
 #EXTINF:0 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/09/net_tv.jpg" group-title="Indonesia",NET
