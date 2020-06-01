@@ -7,9 +7,9 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 
 #TV	Indo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHgdh78/nettv.png" group-title="Indonesia", NET.
-https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan
+http://x1.broiptv.online/play/justispratomo9@gmail.com/54425196/aoklpg3o/rattus/net._rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Indonesia",RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=5-mp4a_64000=2.m3u8
+http://x1.broiptv.online/play/justispratomo9@gmail.com/54425196/aoklpg3o/gerbil/rcti_gerbil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia", GTV
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=3-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Indonesia", MNCTV
@@ -31,7 +31,7 @@ https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=gratisan
 #EXTINF:-1  tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png" group-title="Indonesia", INDOSIAR
 https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=gratisan
 #EXTINF:-1  tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Indonesia", SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
+http://x1.broiptv.online/play/justispratomo9@gmail.com/54425196/aoklpg3o/rattus/sctv_rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Indonesia", TVRI
 https://delivery.macan.live/stream/id_tvri/index.m3u8?token=gratisan
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvPbyBJ/jaktv.jpg" group-title="Indonesia", JAK TV
