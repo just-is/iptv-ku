@@ -7,7 +7,7 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 
 #TV	Indo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHgdh78/nettv.png" group-title="Indonesia", NET.
-
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Indonesia",RCTI
 http://masmuto.com/stream-live.php/video.m3u8?url=16272&line=FREE-JUNI.m3u&user=FREEJUNI&pass=gratis
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgJ8XKB/gtv.png" group-title="Indonesia", GTV
