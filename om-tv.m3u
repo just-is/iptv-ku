@@ -1,6 +1,6 @@
 #EXTM3U
 
-#Indo#Indo-Stable
+#Indo-Stable
 #EXTINF:0 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/09/net_tv.jpg" group-title="Lokal (Stable)",NET
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Lokal (Stable)",RCTI
