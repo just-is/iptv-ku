@@ -1,56 +1,56 @@
 #EXTM3U
 
-#Indo
-#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gRcxOyMfwEzi5k5gLcLf6iQSK0U=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="Indonesia",NET HD
-https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Indonesia",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://img.okeinfo.net/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" group-title="Indonesia",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Indonesia", MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/Vu160Mig2HUGjzVyl1qV.jpg" group-title="Indonesia", INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Indonesia",SCTV 
+#Indo#Indo-Stable
+#EXTINF:0 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/09/net_tv.jpg" group-title="Lokal (Stable)",NET
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Lokal (Stable)",RCTI
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.okeinfo.net/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" group-title="Lokal (Stable)",GTV
+https://iptv.burhansyam.com/global.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Lokal (Stable)", MNCTV
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/Vu160Mig2HUGjzVyl1qV.jpg" group-title="Lokal (Stable)", INEWS
+https://iptv.burhansyam.com/inews.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Lokal (Stable)",SCTV 
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Indonesia",SCTV HD
-https://cdnmdc1.useetv.com/joss/15/sctv/chunklist_w1626501149_b1344100_sleng_108307.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/7wDOmu62XOEP19w4j5uW_rec_small.png" group-title="Indonesia",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/7wDOmu62XOEP19w4j5uW_rec_small.png" group-title="Indonesia",ANTV (Optional)
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/0XPtu38iku32GeqcG7jo.jpg" group-title="Indonesia",TRANS-TV
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/KLisyz1HUlcUikQgOPSK_rec_small.png" group-title="Indonesia", TRANS-7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/640px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w107431205_b384000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Indonesia",TVONE
-http://210.210.155.35/qwr9ew/s/s105/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Indonesia",TVONE (Optional)
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/7wDOmu62XOEP19w4j5uW_rec_small.png" group-title="Lokal (Stable)",ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/0XPtu38iku32GeqcG7jo.jpg" group-title="Lokal (Stable)",TRANS-TV
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/KLisyz1HUlcUikQgOPSK_rec_small.png" group-title="Lokal (Stable)", TRANS-7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/640px-CNN_Indonesia.svg.png" group-title="Lokal (Stable)",CNN INDONESIA
+http://203.153.218.28:9981/stream/channelid/1328589592
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Lokal (Stable)",TVONE
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Lokal (Stable)",TVONE (Optional)
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png" group-title="Indonesia",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/index.m3u8
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="Indonesia",INDOSIAR (Optional)
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Indonesia",KOMPASTV
-http://210.210.155.35/qwr9ew/s/s104/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Indonesia",KOMPASTV (Optional)
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png" group-title="Lokal (Stable)",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Lokal (Stable)",KOMPASTV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Lokal (Stable)",KOMPASTV (Optional)
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/QiKP8y0NXxRXf62efC7O_rec_small.png" group-title="Indonesia",RTV
-https://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/QVH0jHG3Yqreb17h3BIn_rec_small.png" group-title="Indonesia",TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:0 tvg-logo="https://www.intothelightid.org/wp-content/uploads/2018/06/logo-BeritaSatu.jpg" group-title="Indonesia",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/QiKP8y0NXxRXf62efC7O_rec_small.png" group-title="Lokal (Stable)",RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/QVH0jHG3Yqreb17h3BIn_rec_small.png" group-title="Lokal (Stable)",TVRI
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+#EXTINF:0 tvg-logo="https://www.intothelightid.org/wp-content/uploads/2018/06/logo-BeritaSatu.jpg" group-title="Lokal (Stable)",Berita Satu
+http://210.210.155.35/uq2663/h/h41/S1/mnf.m3u8
 
 #SPORTS
+#EXTINF:-1 tvg-id="SFB.UK" tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sports",Sky Sports Football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 tvg-id="SFB.UK" tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sports",Sky Sports Football HD
+http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671301
 #EXTINF:-1 tvg-id="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-http://live.highstream.club/live/BTSPORT1/chunks.m3u8
+http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671278
 #EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-http://live.highstream.club/live/BTSPORT2/chunks.m3u8
+http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671279
+#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sports",BT Sports 3
+http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671281
 #EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
-
+http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62286
 #EXTINF:-1 tvg-ID="BS2.Asia" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
 http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62287
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="Sports",Skynet Sport 1
@@ -66,23 +66,19 @@ https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="Sports",Skynet Sport 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28675?token=HhVYAkpZQF8XBlRaDwcMUQBRUFNTCwBSUVMBAAdVVFIABAIFCQZSVwMTThtFQ0pVUlk6X1QaWVNdBA9WG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwVVVBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62248
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28674?token=HhVYAkpZQF8XAwEMAFQBCAAGVwUHXgZYV1MAV1VVBwRVBQVUDQgHVAQTThtFQ0pVUlk6X1QaWVNdBA9XG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwVYURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62247
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28673?token=HhVYAkpZQF8XBVEIBgAPVgcHB1ADC1EFXFdbAQ8DAAdUAlVVWFRQBg0TThtFQ0pVUlk6X1QaWVNdBA9QG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwJTUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62246
 #EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/logo-header-desktop.png" group-title="Sports",Mola TV
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png",Usee Sports 1
-https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w2117920137_b1344100_sleng_65786.m3u8
+http://iptvstream.xyz:8080/12679/e37ad312/162525
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png",Usee Sports 2
-https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_sleng_177560.m3u8?enc=RStWKB0CU75uFUk98ieI4Q&exp=1587471587
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png",CHAMPION 1
-https://cdnbpp1.useetv.com/joss/15/champion1/chunklist_w606951952_b1344100_sleng_54765.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png",CHAMPION 2
-https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w670832473_b894100_sleng_4803.m3u8
+http://iptvstream.xyz:8080/12679/e37ad312/162523
 
 #WarkopDKI
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2LVYMWHyc9G9I4t8QEtFU7Wh2jr.jpg" group-title="Warkop DKI",Pintar Pintar Bodoh (1980)
