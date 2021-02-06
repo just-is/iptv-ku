@@ -1,315 +1,435 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://tiny.cc/sobatambyar-movie" group-title="VOD - Netflix",Sobat Ambyar (2021)
+https://www.googleapis.com/drive/v3/files/1O7bGiKe3WFJluORMnWLwlRa2Pguvib6G?alt=media&key=AIzaSyB9-BAiMSIR1EUHqJ1nB2xiufYmKrL7iqk
+#EXTINF:0 tvg-logo="http://tiny.cc/Spongeontherun" group-title="VOD - Netflix",The SpongeBob Movie: Sponge on the Run (2020) Dub Indo
+https://nonton.site:8443/movie/novi/novi123/36880.mp4
+#EXTINF:0 tvg-logo="http://tiny.cc/EnolaHolmes-Movie" group-title="VOD - Netflix",Enola Holmes (2020)
+https://nonton.site:8443/movie/novi/novi123/35427.mkv
 
-#Indo-Stable
-#EXTINF:0 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/09/net_tv.jpg" group-title="Lokal (Stable)",NET
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Lokal (Stable)",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.okeinfo.net/content/2017/10/11/598/1793668/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-HuUpnwftig.jpg" group-title="Lokal (Stable)",GTV
-https://iptv.burhansyam.com/global.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Lokal (Stable)", MNCTV
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/Vu160Mig2HUGjzVyl1qV.jpg" group-title="Lokal (Stable)", INEWS
-https://iptv.burhansyam.com/inews.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Lokal (Stable)",SCTV 
-https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/7wDOmu62XOEP19w4j5uW_rec_small.png" group-title="Lokal (Stable)",ANTV
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/0XPtu38iku32GeqcG7jo.jpg" group-title="Lokal (Stable)",TRANS-TV
-http://210.210.155.35/x6bnqe/s/s252/01.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/KLisyz1HUlcUikQgOPSK_rec_small.png" group-title="Lokal (Stable)", TRANS-7
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/640px-CNN_Indonesia.svg.png" group-title="Lokal (Stable)",CNN INDONESIA
-http://203.153.218.28:9981/stream/channelid/1328589592
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Lokal (Stable)",TVONE
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Lokal (Stable)",TVONE (Optional)
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png" group-title="Lokal (Stable)",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Lokal (Stable)",KOMPASTV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Lokal (Stable)",KOMPASTV (Optional)
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/QiKP8y0NXxRXf62efC7O_rec_small.png" group-title="Lokal (Stable)",RTV
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/QVH0jHG3Yqreb17h3BIn_rec_small.png" group-title="Lokal (Stable)",TVRI
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-#EXTINF:0 tvg-logo="https://www.intothelightid.org/wp-content/uploads/2018/06/logo-BeritaSatu.jpg" group-title="Lokal (Stable)",Berita Satu
-http://210.210.155.35/uq2663/h/h41/S1/mnf.m3u8
+#Indo
+#EXTINF:0 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/09/net_tv.jpg" group-title="Indonesia",NET
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62207
+#EXTINF:0 tvg-logo="http://gg.gg/NETHD-LOGO" group-title="Indonesia",NET HD
+https://nonton.site:8443/live/novi/novi123/78.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Indonesia",RCTI
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62199
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="Indonesia",GTV
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62243
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Indonesia", MNCTV
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62214
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/Vu160Mig2HUGjzVyl1qV.jpg" group-title="Indonesia", INEWS
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62235
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Indonesia",SCTV
+https://nonton.site:8443/novi/novi123/931
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png" group-title="Indonesia",INDOSIAR
+https://nonton.site:8443/novi/novi123/1845
+#EXTINF:0 tvg-logo="https://cakapinterview.com/wp-content/uploads/2020/10/AnTV-1.jpg" group-title="Indonesia",ANTV
+https://nonton.site:8443/live/novi/novi123/31.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/0XPtu38iku32GeqcG7jo.jpg" group-title="Indonesia",TRANS-TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w540521200_b744100_sleng.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/0XPtu38iku32GeqcG7jo.jpg" group-title="Indonesia",TRANS-TV (2)
+https://nonton.site:8443/novi/novi123/929
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/KLisyz1HUlcUikQgOPSK_rec_small.png" group-title="Indonesia", TRANS-7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w776710886_b744100_sleng.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/KLisyz1HUlcUikQgOPSK_rec_small.png" group-title="Indonesia", TRANS-7 (2)
+https://nonton.site:8443/novi/novi123/930
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/640px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w618091941_b384000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png" group-title="Indonesia",TVONE
+https://raw.githubusercontent.com/just-is/iptv-ku/master/TVOne-Ku.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/QiKP8y0NXxRXf62efC7O_rec_small.png" group-title="Indonesia", RTV
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62197
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZdFfZzP/metrotv.png" group-title="Indonesia", Metro TV
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62224
+#EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/hhlzIK5tO4OMMsUBEyFK_rec_small.png" group-title="Indonesia",KOMPASTV
+https://nonton.site:8443/novi/novi123/30
 
-#SPORTS
-#EXTINF:-1 tvg-id="SFB.UK" tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sports",Sky Sports Football
-https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
-#EXTINF:-1 tvg-id="SFB.UK" tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sports",Sky Sports Football HD
-http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671301
-#EXTINF:-1 tvg-id="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671278
-#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671279
-#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sports",BT Sports 3
-http://mytv.fun:8080/y8xfv99zd/it2wcfcwxo/671281
-#EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62286
-#EXTINF:-1 tvg-ID="BS2.Asia" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62287
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="Sports",Skynet Sport 1
-https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="Sports",Skynet Sport 2
-https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="Sports",Skynet Sport 3
-https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="Sports",Skynet Sport 4
-https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="Sports",Skynet Sport 5
-https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="Sports",Skynet Sport 6
-https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+
+#Sports
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Logo-PersijaTV-Ku" group-title="Sports",PERSIJA TV
+http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w2146684491.m3u8
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586417913-.jpg" group-title="Sports",USEESPORT 1
+https://nonton.site:8443/novi/novi123/36240
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586417964-.png" group-title="Sports",USEESPORT 2
+https://nonton.site:8443/novi/novi123/36241
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586418093-.png" group-title="Sports",CHAMPIONS 1 [OFF]
+http://livegopanel.club:8080/peter/Peter/34547
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586418154-.png" group-title="Sports",CHAMPIONS 2 [OFF]
+http://livegopanel.club:8080/peter/Peter/34548
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports",BEIN SPORTS 1
+https://nonton.site:8443/novi/novi123/728
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",BEIN SPORTS 2
+https://nonton.site:8443/novi/novi123/729
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62248
+https://nonton.site:8443/novi/novi123/51
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 (Optional)
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62247
+https://nonton.site:8443/novi/novi123/102
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 (Optional)
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62246
-#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sport
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/logo-header-desktop.png" group-title="Sports",Mola TV
-https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png",Usee Sports 1
-http://iptvstream.xyz:8080/12679/e37ad312/162525
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png",Usee Sports 2
-http://iptvstream.xyz:8080/12679/e37ad312/162523
+https://nonton.site:8443/novi/novi123/101
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 (Optional)
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png" group-title="Sports",Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png" group-title="Sports",Sport TV 2
+http://77.54.145.209:81/play/a02j 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png" group-title="Sports",Sport TV 3
+http://77.54.145.209:81/play/a02n 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png" group-title="Sports",Sport TV 4
+http://77.54.145.209:81/play/a02o 
+#EXTINF:-1 tvg-logo="http://tiny.cc/TennisCH" group-title="Sports",Tennis Channel
+https://nonton.site:8443/novi/novi123/482
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-SuperSportHD-Ch831.png",Astro Supersports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-SuperSport2-HD-Ch833.png",Astro Supersports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-SuperSport3-HD-Ch834.png",Astro Supersports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-arena-logo-png-3.png",Astro Supersports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/220px-UFC_Fight_Pass_Logo.svg.png",UFC
+https://nonton.site:8443/novi/novi123/2401
 
-#WarkopDKI
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2LVYMWHyc9G9I4t8QEtFU7Wh2jr.jpg" group-title="Warkop DKI",Pintar Pintar Bodoh (1980)
-https://www.googleapis.com/drive/v3/files/1gFk4YBydCRLYIgsQ6Gp7aE6iXs04ip3-?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/Geeeer.jpg" group-title="Warkop DKI",Ge…er (Gede Rasa) (1980)
-https://www.googleapis.com/drive/v3/files/16JMKnAVy4MnK0BHAIsloQ7RvvfCKoTOq?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pJV3RJW7n4QF3FDedHcHHAWwupU.jpg" group-title="Warkop DKI",Manusia 6.000.000 Dolar (1981)
-https://www.googleapis.com/drive/v3/files/1YSgvf2zvR0rskn4P6HO9oEVHXVEjxE8K?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/setan-kredit.jpg" group-title="Warkop DKI",Setan Kredit (1981)
-https://www.googleapis.com/drive/v3/files/1_lUquy2KaMMMcMutLcq06RjQuKV1YMQN?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/iq-jongkok.jpg" group-title="Warkop DKI",IQ Jongkok (1981)
-https://www.googleapis.com/drive/v3/files/1vXt7IJwCbc26qIMkEv6S3b5gEx3uqJKt?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FtfM0bsKFxM/UraS7k9bDZI/AAAAAAAAGGs/6tONAmPlE6s/s320/Film+Warkop+DKI+-+Dongkrak+Antik.jpg" group-title="Warkop DKI", Dongkrak Antik (1982)
-https://www.googleapis.com/drive/v3/files/16xapX62lyon119AMLHZpWc1OfWpOeZc4?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/chips.jpg" group-title="Warkop DKI",CHIPS (1982)
-https://www.googleapis.com/drive/v3/files/1ScaJDZ8dBUpXLyfpS4Sj2qzleyyg4Wdt?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/09/images.jpeg" group-title="Warkop DKI",Maju Kena Mundur Kena(1983)
-https://www.googleapis.com/drive/v3/files/1sDZOLfCbeEMr4LXwnM6HMxjH-ZEpV85W?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qnXUJBEwaT9PHDgWqGpLy86ShOQ.jpg" group-title="Warkop DKI",Gantian Dong(1985)
-https://www.googleapis.com/drive/v3/files/1hrLJVkCxpJUNjvJNEv41EaIRt_iufx_t?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/18/Godain_Kita_Dong_%281989%3B_obverse%3B_wiki%29.jpg" group-title="Warkop DKI",Godain Kita Dong (1989)
-https://www.googleapis.com/drive/v3/files/1eg8XP38u5N0521tYjot0s0nXA2bWGnDS?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/0k.jpg" group-title="Warkop DKI",Kanan Kiri OK (1989)
-https://www.googleapis.com/drive/v3/files/1YZamkQgRrZHU6QL3iVdFxJHkQ1gN4i-j?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/ok-2.jpg" group-title="Warkop DKI",Kanan Kiri OK 2 (1989)
-https://www.googleapis.com/drive/v3/files/1VyaPGW89GwAorE2l9GQB3MVPXBxE5dJ6?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/ok-3.jpg" group-title="Warkop DKI",Kanan Kiri OK 3 (1990)
-https://www.googleapis.com/drive/v3/files/11f-IlQmST5DGe5fztSi22GIU1yLo5Qbf?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-#EXTINF:-1 tvg-logo="http://gg.gg/saya-duluan-dong" group-title="Warkop DKI",Saya Duluan Dong (1994)
-https://www.googleapis.com/drive/v3/files/1j7vCBAq1OfmXbc6miLOdM0L_vAqxemFH?alt=media&key=AIzaSyC-4WGn8rRUJV4-NzjbPU_9wlkOpFVsQcA
-
-#Kids
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62267
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28685?token=HhVYAkpZQF8XAFENBFZbAgYMVVMBCAUHVwoMVVFSUFADDgJaCldRBwMTThtFQ0pVUlk6X1QaWVNdBABWG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwZXVRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gd5JZjC/djr.png" group-title="Kids",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/tv-tile-disneyxd-retina-25082016_a105c932.jpeg?region=0%2C0%2C540%2C405" group-title="Kids",Disney XD
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28683?token=HhVYAkpZQF8XCVMIVVMKBwMHUwYBDFIAVwoOBw9UUlRQVAFTD1QAVlcTThtFQ0pVUlk6X1QaWVNdBABQG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoDUwdYUBsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/06/Nickelodeon-log.jpg" group-title="Kids",Nickelodeon
-https://cdnbpp1.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/06/Nickelodeon-log.jpg" group-title="Kids",Nickelodeon (Optional)
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62202
-#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/11/nick-jr-logo.png" group-title="Kids",Nick Jr.
-https://cdnbpp1.useetv.com/joss/14/nickjr/chunklist_w5748593_b684100_sleng_80916.m3u8
-#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/11/nick-jr-logo.png" group-title="Kids",Nick Jr. HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62201
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",Dreamworks
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62150
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/23/233c55683ecdf50dfd9cacf06cdd61af.jpeg" group-title="Kids",Cartoon Network HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62279
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
-http://iptvstream.xyz:8080/12679/e37ad312/155081
-#EXTINF:-1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="Kids",Aniplus
-http://iptvstream.xyz:8080/12679/e37ad312/157611
-#EXTINF:-1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="Kids",Aniplus HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62158
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
-http://iptvstream.xyz:8080/12679/e37ad312/157605
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="Kids",Duck TV
-https://cdnbpp1.useetv.com/joss/14/ducktv/chunklist_w833664660_b684100_sleng_7149.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/350px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
-https://cdnbpp1.useetv.com/joss/14/boomerang/chunklist_w1392885613_b684100_sleng_54965.m3u8
-#EXTINF:0 tvg-logo="https://i.downloadatoz.com/upload/android/icon/8/1/5/176305dc7271af771082fe2aca875e43.jpg" group-title="Kids",Larva TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:0 tvg-logo="https://docs.ficomic.com/IMAGES_29/doraemon-miniatura.jpg" group-title="Kids",Doraemon TV
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/aa/e0/f8/aae0f870093df84443a0fbcdde0bc263.jpg"group-title="Kids",Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 #TV Islam
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam",MAKKAH LIVE
-http://playlive.goonj.pk/makkahweb_480p/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam",MADINAH LIVE
-http://playlive.goonj.pk/madinaweb_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OdV49fMZ1sY/maxresdefault.jpg" group-title="TV Islam",MAKKAH LIVE
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tiny.cc/MADINAH-TV" group-title="TV Islam",MADINAH LIVE
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="TV Islam",NABAWI TV
+http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w1094123319.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-title="TV Islam",Muslim TV
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/28768
 #EXTINF:-1 tvg-logo="https://actnews.tv/images/new-logo.png" group-title="TV Islam",ACT TV
 https://stream.actnews.tv/livetv/humanity-tv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="TV Islam",MQTV
+https://cdn12jtedge.useetv.com/joss/14/mqtv/chunklist_w1657617955_b684100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.tawaf.tv/assets/img/tawaftv.jpg" group-title="TV Islam",TAWAF TV
 http://z.tawaf.tv:8080/hls/hanyacoba.m3u8
-#EXTINF:-1 tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="TV Islam",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvmu.tv/wp-content/uploads/2014/12/tvmu1-e1418461698456.png" group-title="TV Islam",TV Muhammadiyah
-http://203.153.218.26:9981/stream/channelid/423233853
+https://nonton.site:8443/novi/novi123/1726
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="TV Islam",TV9
-https://vcdnjt.useetv.com:443/joss/14/tv9/chunklist_w1823610374_b684100_sleng_177560.m3u8?enc=gHehqfx82RU4rLomNI6dfQ&exp=1587472048
+http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w1225123144.m3u8
 #EXTINF:-1 tvg-logo="https://aldysefan.files.wordpress.com/2012/05/rodja_tv-logo.png?w=788" group-title="TV Islam",RODJA TV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam",AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1354767105.m3u8
 #EXTINF:-1 tvg-logo="https://madu.tv/wp-content/uploads/2018/11/default-featured-image-trans.png" group-title="TV Islam",MADU TV
 https://v3.siar.us/madutv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0jzUUiyfdYY/W27ACDE4twI/AAAAAAAAAiI/0dkUuMlxClgjEwb7latQ4sKBaaFjN8fKgCLcBGAs/s320/AQSA_TV_UNI-versityTV.jpg" group-title="TV Islam",AQSA TV
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
 #EXTINF:-1 tvg-logo="https://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="TV Islam",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/Muadz-TV.jpg" group-title="TV Islam",MUADZ TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1219206793.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="TV Islam",SURAU TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/93M8pwFWJn4/maxresdefault.jpg" group-title="TV Islam",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1173494619.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAikIGchxvb-pcs6-I6BII2Sxt_15eLzqCvp25cbzq8nWKV1wrFA&s" group-title="TV Islam",AL-BAHJAH TV
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
-#J-Movie
-#EXTINF:-0 tvg-logo="https://doramaindo.id/wp-content/uploads/2019/07/You-Are-the-Apple-of-My-Eye-2018.jpg" group-title="J-Movie",You Are the Apple of My Eye
-https://ocean.muvix.us/link/iMiRtgQIcfcYdUg/480/d6ec0b3281e41a7a6223c7c1b1522a5f/
-
-#Anime-Movie
-#EXTINF:-0 tvg-logo="https://fesapusewebsite.blob.core.windows.net/fathom/wwy-6489619c29fb58fcfe879a5043a6ed35.jpg" group-title="Anime-Movie", Tenki no Ko / Weathering with You
-https://www.googleapis.com/drive/v3/files/11BC0mv-ZwK1Xj5ghHb4PQ4Y1F4ZmV0tS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#NEWS
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" group-title="News",PALESTINE TODAY
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://www.pciglobal.org/wp-content/uploads/2018/05/Aljazeera-logo-English-1024x768.png" group-title="News",ALJAZEERA
-http://210.210.155.35/qwr9ew/s/s17/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="News",BBC World News
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xnfQBJ/cnbc.jpg" group-title="News",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg" group-title="News",JAKARTA GLOBE NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62267
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel (Optional)
+https://nonton.site:8443/novi/novi123/306
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gd5JZjC/djr.png" group-title="Kids",Disney Junior 
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62266
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gd5JZjC/djr.png" group-title="Kids",Disney Junior ID (Optional)
+https://nonton.site:8443/novi/novi123/3479
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/tv-tile-disneyxd-retina-25082016_a105c932.jpeg?region=0,0,540,405" group-title="Kids",Disney XD
+https://nonton.site:8443/novi/novi123/37400
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2019/06/Nickelodeon-log.jpg" group-title="Kids",Nickelodeon
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62202
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/11/nick-jr-logo.png" group-title="Kids",Nick Jr.
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Kids",Dreamworks
+https://nonton.site:8443/novi/novi123/32529
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/23/233c55683ecdf50dfd9cacf06cdd61af.jpeg" group-title="Kids",Cartoon Network
+https://nonton.site:8443/novi/novi123/680
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
+https://nonton.site:8443/novi/novi123/3
+#EXTINF:-1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="Kids",Aniplus
+https://nonton.site:8443/novi/novi123/2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/321-3214135_duck-tv-logo-png.png" group-title="Kids", Duck TV
+https://nonton.site:8443/novi/novi123/1854
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV
+https://nonton.site:8443/novi/novi123/296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/350px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang
+https://nonton.site:8443/novi/novi123/305
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="Kids", Spacetoon 
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1014075507.m3u8
 
 #Entertainment
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Entertainment",Asian Food Network
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/TVN-HD.png" group-title="Entertainment",tvN
-https://cdnbpp1.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
-#EXTINF:-1 tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/6600034.png" group-title="Entertainment",DIVA
-http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62264
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/One_tv_asia.jpg/revision/latest/scale-to-width-down/340?cb=20200319122626" group-title="Entertainment",S ONE
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62190
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/One_tv_asia.jpg/revision/latest/scale-to-width-down/340?cb=20200319122626" group-title="Entertainment",S ONE (Optional)
-https://cdnbpp1.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1240080827574145028/m46rTXnW_400x400.jpg" group-title="Entertainment",S GEM
-https://cdnbpp1.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png" group-title="Entertainment",Asian Food Network
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62295
+#EXTINF:-1 tvg-logo="https://www.futurekorea.co.kr/news/photo/201701/36166_28717_618.jpg" group-title="Entertainment",tvN
+https://nonton.site:8443/novi/novi123/767
+#EXTINF:-1 tvg-logo="http://gg.gg/KBS-World" group-title="Entertainment",KBS WORLD
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/One_tv_asia.jpg/revision/latest/scale-to-width-down/340?cb=20200319122626" group-title="Entertainment",ONE
+https://nonton.site:8443/novi/novi123/19
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/One_tv_asia.jpg/revision/latest/scale-to-width-down/340?cb=20200319122626" group-title="Entertainment",ONE (Optional)
+http://45.126.83.51/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1240080827574145028/m46rTXnW_400x400.jpg" group-title="Entertainment",GEM
+https://nonton.site:8443/novi/novi123/770
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1240080827574145028/m46rTXnW_400x400.jpg" group-title="Entertainment",GEM (Optional)
+http://45.126.83.51/uq2663/h/h19/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/611338890566242305/N5zXMQM7_400x400.png",Waku Waku Japan
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62143
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/611338890566242305/N5zXMQM7_400x400.png",Waku Waku Japan (Optional)
-https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="Entertainment",eGG Network
+https://nonton.site:8443/novi/novi123/717
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniCkxmqy-0TY8qtiLYjTTo0YhgNstkcwK9B51wP=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="Entertainment",BLUE ANT ENTERTAINMENT
-http://210.210.155.35/dr9445/h/h16/index.m3u8
+https://nonton.site:8443/novi/novi123/1506
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947319278105116672/Yg2ESN11_400x400.jpg" group-title="Entertainment", BLUE ANT EXTREME
-http://210.210.155.35/dr9445/h/h15/index.m3u8
+https://nonton.site:8443/novi/novi123/811
+
 
 #Movies
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/IMC-logo-color-250x140.png" group-title="Movies",IMC
+https://nonton.site:8443/novi/novi123/35484
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Movies",Bioskop Indonesia
+https://nonton.site:8443/novi/novi123/908
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT.jpg" group-title="Movies",FLIK
+https://nonton.site:8443/novi/novi123/29592
+#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2018/08/zeebioskop.png" group-title="Movies",Zee Bioskop
+https://nonton.site:8443/novi/novi123/7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="Movies",FX
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62244
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/1858
 #EXTINF:-1 tvg-logo="https://hcmfpt.vn/vnt_upload/news/07_2019/red_by_hbo.png" group-title="Movies",RED by HBO
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62171
+https://nonton.site:8443/novi/novi123/4832
+#EXTINF:-1 tvg-logo="https://hcmfpt.vn/vnt_upload/news/07_2019/red_by_hbo.png" group-title="Movies",RED by HBO (Optional)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62170
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Movies",HBO HD
-https://delivery.macan.live/stream/hbo/playlist.m3u8?token=CLK6e&v=20200308
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family FHD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62172
+https://nonton.site:8443/live/novi/novi123/26599.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax FHD
+https://nonton.site:8443/novi/novi123/30185
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax (Optional)
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Movies",HBO ID
+https://nonton.site:8443/novi/novi123/1496
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Movies",HBO (Optional)
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-hbo-logo-15.png" group-title="Movies",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-hbo-logo-15.png" group-title="Movies",HBO Hits FHD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62173
+https://nonton.site:8443/novi/novi123/11492
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/transparent-hbo-logo-15.png" group-title="Movies",HBO Hits (Optional)
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62174
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/211-2118177_fox-logo-fox-tv-logo-png.png" group-title="Movies",FOX 
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+https://nonton.site:8443/novi/novi123/1498
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature HD (Optional)
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family
+https://nonton.site:8443/novi/novi123/30184
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family (Optional)
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/211-2118177_fox-logo-fox-tv-logo-png.png" group-title="Movies",FOX HD
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=ZqJse&v=20200308
+https://nonton.site:8443/novi/novi123/95
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/107-1071261_fox-movies-vr-app-fox-movies.png" group-title="Movies",FOX Movies HD
-https://delivery.macan.live/stream/id_foxmovies/index.m3u8?token=ZqJse&v=20200308
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/107-1071261_fox-movies-vr-app-fox-movies.png" group-title="Movies",FOX Movies (Optional)
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28676?token=HhVYAkpZQF8XBVsNBQEJBgdXVQcDAFpTVwcOUw5RUllVVVMACghRAQwTThtFQ0pVUlk6X1QaWVNdBA9VG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGUw5ZVhsSE1BVQF8XA1MJDg4aHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQFAQACFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQGCAMFFhg=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/FOX_Action_Movies_%282017%29.png" group-title="Movies",FOX Action Movies HD
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=ZqJse&v=20200308
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/FOX_Action_Movies_%282017%29.png" group-title="Movies",FOX Action Movies (Optional)
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+https://nonton.site:8443/novi/novi123/98
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png" group-title="Movies",FOX Action Movies HD
+https://nonton.site:8443/novi/novi123/99
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movies",Fox Family Movies HD
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=ZqJse&v=20200308
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="Movies",Fox Family Movies HD (Optional)
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="Movies",FOX Crime HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62254
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Movies",FOX Life HD
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62252
+https://nonton.site:8443/novi/novi123/14994
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="Movies",FOX Crime
+https://nonton.site:8443/novi/novi123/763
+#EXTINF:-1 tvg-logo="http://gg.gg/FoxLifeCH" group-title="Movies",FOX Life
+https://nonton.site:8443/novi/novi123/94
+#EXTINF:-1 tvg-logo="http://tiny.cc/GalaxyCH" group-title="Movies",Galaxy
+https://nonton.site:8443/novi/novi123/29604
+#EXTINF:-1 tvg-logo="http://gg.gg/GalaxyPremium" group-title="Movies",Galaxy Premium
+https://nonton.site:8443/novi/novi123/29603
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN HD
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+https://nonton.site:8443/novi/novi123/9
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",Cinema World
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62274
+https://nonton.site:8443/novi/novi123/1194
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Movies",HITS
+https://nonton.site:8443/novi/novi123/1195
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Movies",HITS (Optional)
+http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62239
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TQPpv_5Ia4A/XH9Uklj31cI/AAAAAAAAna8/BTW6vGyHnVknvhkeepVcD21x1jgpWY11gCLcBGAs/s1600/hits-movies-channel-tv-logo.png" group-title="Movies",HITS MOVIES
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62238
+https://nonton.site:8443/novi/novi123/957
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movies",KIX
-https://cdnbpp1.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
+https://nonton.site:8443/novi/novi123/8
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1546498875_thrill.jpg" group-title="Movies",Thrill
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+https://nonton.site:8443/live/novi/novi123/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies HD
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28688?token=HhVYAkpZQF8XVFcBVVEAVlJXUA8DAAdWXAQBBwRQDldWB1VVWwVXBwATThtFQ0pVUlk6X1QaWVNdBABbG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoFVQRYVRsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/TVN-Movies-HD.png" group-title="Movies",tvN Movies
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62178
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/IndiKorea/TVN-Movies-HD.png" group-title="Movies",tvN Movies (Optional)
-https://cdnbpp1.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+https://nonton.site:8443/novi/novi123/5
+#EXTINF:-1 tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="Movies",tvN Movies
+https://nonton.site:8443/novi/novi123/927
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/74-746351_transparent-channel-logo-png-warner-tv-logo-png.png" group-title="Movies",Warner TV
-http://portal.geniptv.com:8080/qXQaoMUg63/4yC1hHAR3K/62142
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/74-746351_transparent-channel-logo-png-warner-tv-logo-png.png" group-title="Movies",Warner TV (Optional)
-https://cdnbpp1.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
+https://nonton.site:8443/novi/novi123/1533
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Movies",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #Learning
 #EXTINF:0 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fbe%2FAnimal_Planet_logo_%2528black_and_green%2529.svg%2F1200px-Animal_Planet_logo_%2528black_and_green%2529.svg.png&f=1&nofb=1" group-title="Learning",Animal Planet
-http://cuvillier.gentv.to:8080/Nur/Ln5vkts42G/62299
-#EXTINF:0 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fbe%2FAnimal_Planet_logo_%2528black_and_green%2529.svg%2F1200px-Animal_Planet_logo_%2528black_and_green%2529.svg.png&f=1&nofb=1" group-title="Learning",Animal Planet HD
-http://62.210.127.217:8080/p9JJJ9g9TY/f7HrN449rs/28707?token=HhVYAkpZQF8XUFtYBVMMAwpXXAICWwVYUQRbAQNRVVJdAVFSDwAAVQITThtFQ0pVUlk6X1QaWVNdBQhUG0dDEgBFbwpdE1hHAQdSAAEBGhwRQAxbVRpZUFAKAVoGXAdVVhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+https://nonton.site:8443/novi/novi123/358
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="Learning",History
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg?fit=900%2C675&ssl=1" group-title="Learning",Discovery
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&profile=pass
-#EXTINF:-1 tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo.png" group-title="Learning",National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Learning",Nat Geo People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="Learning",Nat Geo Wild 
-https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=ZqJse&v=20200308
+https://nonton.site:8443/novi/novi123/718
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg?fit=900%2C675&ssl=1" group-title="Learning",Discovery Channel
+https://nonton.site:8443/novi/novi123/165
+#EXTINF:-1 tvg-logo="https://static.nationalgeographic.co.uk/files/styles/image_3200/public/NGlogo.png" group-title="Learning",National Geographic
+https://nonton.site:8443/novi/novi123/96
+#EXTINF:-1 tvg-logo="https://d30gyci1pdbs71.cloudfront.net/logos-natgeo.png" group-title="Learning",Nat Geo People
+https://nonton.site:8443/novi/novi123/455
+#EXTINF:-1 tvg-logo="https://tvdateswatch.com/wp-content/uploads/2020/01/ngwo.png" group-title="Learning",Nat Geo Wild
+https://nonton.site:8443/novi/novi123/97
+
+#VOD
+#WarkopDKI
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2LVYMWHyc9G9I4t8QEtFU7Wh2jr.jpg" group-title="Warkop DKI",Pintar Pintar Bodoh (1980)
+https://www.googleapis.com/drive/v3/files/1gFk4YBydCRLYIgsQ6Gp7aE6iXs04ip3-?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/Geeeer.jpg" group-title="Warkop DKI",Ge…er (Gede Rasa) (1980)
+https://www.googleapis.com/drive/v3/files/16JMKnAVy4MnK0BHAIsloQ7RvvfCKoTOq?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pJV3RJW7n4QF3FDedHcHHAWwupU.jpg" group-title="Warkop DKI",Manusia 6.000.000 Dolar (1981)
+https://www.googleapis.com/drive/v3/files/1YSgvf2zvR0rskn4P6HO9oEVHXVEjxE8K?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/setan-kredit.jpg" group-title="Warkop DKI",Setan Kredit (1981)
+https://www.googleapis.com/drive/v3/files/1_lUquy2KaMMMcMutLcq06RjQuKV1YMQN?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/iq-jongkok.jpg" group-title="Warkop DKI",IQ Jongkok (1981)
+https://www.googleapis.com/drive/v3/files/1vXt7IJwCbc26qIMkEv6S3b5gEx3uqJKt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FtfM0bsKFxM/UraS7k9bDZI/AAAAAAAAGGs/6tONAmPlE6s/s320/Film+Warkop+DKI+-+Dongkrak+Antik.jpg" group-title="Warkop DKI", Dongkrak Antik (1982)
+https://www.googleapis.com/drive/v3/files/16xapX62lyon119AMLHZpWc1OfWpOeZc4?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/chips.jpg" group-title="Warkop DKI",CHIPS (1982)
+https://www.googleapis.com/drive/v3/files/1ScaJDZ8dBUpXLyfpS4Sj2qzleyyg4Wdt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/09/images.jpeg" group-title="Warkop DKI",Maju Kena Mundur Kena(1983)
+https://www.googleapis.com/drive/v3/files/1sDZOLfCbeEMr4LXwnM6HMxjH-ZEpV85W?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qnXUJBEwaT9PHDgWqGpLy86ShOQ.jpg" group-title="Warkop DKI",Gantian Dong(1985)
+https://www.googleapis.com/drive/v3/files/1hrLJVkCxpJUNjvJNEv41EaIRt_iufx_t?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/18/Godain_Kita_Dong_%281989%3B_obverse%3B_wiki%29.jpg" group-title="Warkop DKI",Godain Kita Dong (1989)
+https://www.googleapis.com/drive/v3/files/1eg8XP38u5N0521tYjot0s0nXA2bWGnDS?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/0k.jpg" group-title="Warkop DKI",Kanan Kiri OK (1989)
+https://www.googleapis.com/drive/v3/files/1YZamkQgRrZHU6QL3iVdFxJHkQ1gN4i-j?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/ok-2.jpg" group-title="Warkop DKI",Kanan Kiri OK 2 (1989)
+https://www.googleapis.com/drive/v3/files/1VyaPGW89GwAorE2l9GQB3MVPXBxE5dJ6?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/ok-3.jpg" group-title="Warkop DKI",Kanan Kiri OK 3 (1990)
+https://www.googleapis.com/drive/v3/files/11f-IlQmST5DGe5fztSi22GIU1yLo5Qbf?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="http://gg.gg/saya-duluan-dong" group-title="Warkop DKI",Saya Duluan Dong (1994)
+https://www.googleapis.com/drive/v3/files/1j7vCBAq1OfmXbc6miLOdM0L_vAqxemFH?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+
+#Kids-VOD-Movie
+#EXTINF:-1 tvg-logo="http://s6.indexmovie.biz/wp-content/uploads/2019/11/film-boboiboy-movie-2-2019-lk21.jpg" group-title="Kids VOD",Boboiboy the Movie 2
+https://s21.cdncv.net/hls/mfqjxdm4xxo6sr7qw7uez62f4nnccdjg4xk7mn7xkdjkl6j7yo6w6f3rg6ia/index-v1-a1.m3u8
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81o8T-V0daL._SY445_.jpg" group-title="Kids VOD",Toy Story 4 (2019)
+https://www.googleapis.com/drive/v3/files/1z7M6rJPCPnVMtVIL_f0Hu1gcNdJTajD8?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="http://gg.gg/angry-birds-2-logo" group-title="Kids VOD",The Angry Birds Movie 2 (2019)
+https://www.googleapis.com/drive/v3/files/1egz55x2mfdLkAe_oC7MX29H-JWXDAer3?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="Kids VOD",Sonic the Hedgehog (2020)
+https://www.googleapis.com/drive/v3/files/18jua7q3LtfKe4OYB9GlWHuEVSMfevngW?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_onward_19024_dbb512d5.jpeg" group-title="Kids VOD",Onward (2020)
+https://www.googleapis.com/drive/v3/files/1rJSnOrIz-vAdTx7mJTPTDNEfjl3vppDF?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+
+#VOD-Movie
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video18/v4/e3/fa/3d/e3fa3d47-d01c-b21f-4f69-cbb5eff7be83/pr_source.lsr/268x0w.png" group-title="VOD",Now You See Me
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="https://empirecinema.com.mt/wp-content/uploads/2016/06/now_you_see_me_two_ver15.jpg" group-title="VOD",You Now See Me 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81avXfQsmiL._SL1500_.jpg" group-title="VOD",Ip Man 4 : The Finale (2019)
+https://www.googleapis.com/drive/v3/files/1Q_VE2L5LEfXxG7LAtRU5zwnEGsaopcpP?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91FgunMfhJL._SX300_.jpg" group-title="VOD",Dolittle (2019)
+https://www.googleapis.com/drive/v3/files/16FHD0jxgM7J7XOUnfupNHrS81jyaHyOW?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91u3fzl8ffL._SX300_.jpg" group-title="VOD",Jojo Rabbit (2019)
+https://www.googleapis.com/drive/v3/files/1Lqcx_NRCwZuLBJziGXx2k4ljpd2gpRTQ?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://miro.medium.com/max/1080/0*FXBP5NRv0m8CSw-7.jpeg" group-title="VOD",Bloodshot (2020)
+https://www.googleapis.com/drive/v3/files/1o0Vo-sHvEJDowOuw7-rZE0nvJu8o_1Rl?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+
+#Netflix-Movies
+#EXTINF:-0 tvg-logo="http://s1.indexmovie.biz/wp-content/uploads/2020/04/film-money-heist-the-phenomenon-2020-lk21.jpg" group-title="Netflix-Movies",Money Heist the Phenomenon
+https://www.googleapis.com/drive/v3/files/1cVDalaMfqvzVC6P5A15DbygoZBXaK3B-?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2020/04/Extraction-poster-600x889.jpg" group-title="Netflix-Movies",Extraction
+https://www.googleapis.com/drive/v3/files/1sT-0_EF5mOlmioVTT-lXloDi8MuoAbhZ?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+
+#Netflix-Series
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 1
+https://www.googleapis.com/drive/v3/files/1LmkxiywfW6OQGMMawSuHdpqTaMlrw2rQ?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 2
+https://www.googleapis.com/drive/v3/files/1VhdvDdqn-F0kmqXllpDfJwRSOZCDiK8m?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 3
+https://www.googleapis.com/drive/v3/files/1ds5GwvTjbjkFeHcGwR3w-ousp1U7mnQt?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 4 
+https://www.googleapis.com/drive/v3/files/11_OFVtUbRzdnYAsuljIebix0IxotOVx8?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 5
+https://www.googleapis.com/drive/v3/files/13Na8UsnmPX8aVAdV8LTXU_8ydcNXgu-p?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 6
+https://www.googleapis.com/drive/v3/files/15zqvc4IycPa4MFmn27dqx4gsmoKd1iFk?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 7
+https://www.googleapis.com/drive/v3/files/1fjf-vAlcmLvx0JHf6sygkpkmUBbEJsk7?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 8
+https://www.googleapis.com/drive/v3/files/19SKZZateQFKS7Cp7aCkRuj0m78OmAkXN?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 9
+https://www.googleapis.com/drive/v3/files/1P-pDAAnx_g5LYJqoM_706L6CdE7PqhVf?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 10
+https://www.googleapis.com/drive/v3/files/1b57f9iPv2i0Q1W8kHAmwQBAbnoclLNv1?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 11
+https://www.googleapis.com/drive/v3/files/1e3bV07FPcUdNdSm0c6Ivvu6g8UATjXgU?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 12
+https://www.googleapis.com/drive/v3/files/1ZjGPXu8IUKAHdiVpqxr8yL7He-z5-Y2p?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61boFr6SYZL._SY550_.jpg" group-title="Netflix-Series",Money Heist 1 - Episode 13
+https://www.googleapis.com/drive/v3/files/1P-r191slN5fP4jzYP2vtt0ILFiwmKa2V?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#Part2
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 1
+https://www.googleapis.com/drive/v3/files/1P-r191slN5fP4jzYP2vtt0ILFiwmKa2V?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 2
+https://www.googleapis.com/drive/v3/files/1vdqBQjF0zV8OwC5XLH3ZGj1noEsYX8-x?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 3
+https://www.googleapis.com/drive/v3/files/1aK4r545lMJNSaQCGRJuJ353OEOq46dUb?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 4
+https://www.googleapis.com/drive/v3/files/1h-8eA5a0axsT-DXXr3dlrAH0gvZ8aAq2?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 5
+https://www.googleapis.com/drive/v3/files/1WU6PS_drusfRFz-I8W9L0WVWQv1oPKIC?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 6
+https://www.googleapis.com/drive/v3/files/1e0tcgQiAtXJHi6WGrdOrNu-BErPPYJVe?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 7
+https://www.googleapis.com/drive/v3/files/1eyGnf9neeOgbZdpiXOAbHRUO91bcbgsn?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 8
+https://www.googleapis.com/drive/v3/files/1kY9wzyBnhEQ4nog_iYG7p9FpDFDiN1QC?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part2" group-title="Netflix-Series",Money Heist 2 - Episode 9
+https://www.googleapis.com/drive/v3/files/1lbL1eKOgLvQLxQe2SvXi9SdIKfFI6geH?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#Part3
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 1
+https://www.googleapis.com/drive/v3/files/1SX9zr7p_3Kw1a-zexopXiE8TQxIM-RBq?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 2
+https://www.googleapis.com/drive/v3/files/1evaxZNP063e6mcISwpOLym1D-acrFrKg?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 3
+https://www.googleapis.com/drive/v3/files/1sWVS2-Mar9075KP6Y9qQMDgSzb1_Gi6O?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 4
+https://www.googleapis.com/drive/v3/files/1Az_hwUm4JdXWXW2xL-qDdPRkaSB1tlCz?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 5
+https://www.googleapis.com/drive/v3/files/1kyoFfbtaOkUM2w2dsw-6GXtNpDgermjq?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 6
+https://www.googleapis.com/drive/v3/files/188W21GJ7Jye6UG8mQWFCBvSV1sB8Qei-?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 7
+https://www.googleapis.com/drive/v3/files/11VqMxFCaeWUDorlpp-0bLyyamB32Djpc?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part3" group-title="Netflix-Series",Money Heist 3 - Episode 8
+https://www.googleapis.com/drive/v3/files/1s73qzuLNslH4HwjvVRVxHG4iNBwX3Rc6?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#Part4
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Trailer
+https://r1---sn-jx25uoxu-jb3l.googlevideo.com/videoplayback?expire=1588201402&ei=WrOpXsXuF4iUvQSztIbwCA&ip=103.82.14.71&id=o-ABoJMJs3vKCDXXnl_kA-iRu1sSjMx6DnSYv1pL_EmpN1&itag=22&source=youtube&requiressl=yes&mh=lZ&mm=31%2C29&mn=sn-jx25uoxu-jb3l%2Csn-npoe7nes&ms=au%2Crdu&mv=m&mvi=0&pcm2cms=yes&pl=24&initcwndbps=601250&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=138.901&lmt=1583764253594826&mt=1588179687&fvip=1&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AJpPlLswRAIgERW4zUsX9vsaeMvXrXnu1ZcPc1Ez4YyDvKKvD6HW7HoCIFMQHGfoqWrqjd629ldejT8zdgg_vgOn2Y7dkSGVHCwd&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRgIhAMtU4qeCcCqRgC3BrVFMtkClUXecvktVfp2N9ulCNGwGAiEA8Feg_zqRs7B1jc-uqye3R8qw0osDGlqVscbWXnjQwrY%3D
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 1
+https://www.googleapis.com/drive/v3/files/1e9N2OZ-rtx0ZcdkJoM_N1KGJYB8eSzTp?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 2
+https://www.googleapis.com/drive/v3/files/1aUVY0Nh9yvq5sn-m3JDXsmOKRaZ3eSje?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 3
+https://www.googleapis.com/drive/v3/files/1bCxRYZwwqE85qA8tReEFoax0prsufCpR?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 4
+https://www.googleapis.com/drive/v3/files/1f98OB6cBZ4HlFF3TgXax0wiekTBE_plt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 5
+https://www.googleapis.com/drive/v3/files/1qKYR4bdMBsyXIdudJwFEjyv6aAJI1buO?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 6
+https://www.googleapis.com/drive/v3/files/16Q1u5QHAPJl9jDEnnu314RD49p4yRsFX?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 7
+https://www.googleapis.com/drive/v3/files/1DbVfbfixovqxQ7FByWQETazgFG8_tJC5?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://gg.gg/money-heist-part4" group-title="Netflix-Series",Money Heist 4 - Episode 8
+https://www.googleapis.com/drive/v3/files/13z_KJxr91Qnn8Miw-70wIb_0TsdW-cyr?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
 
 #Indo-Movie
-#EXTINF:-0 tvg-logo="https://iflix-images.akamaized.net/5901a28fe4b0d07b3d060ee3-1582782390081.jpg?transform=true" group-title="Indonesian Movies",Hari ini Pasti Menang (2013)
-https://gcpvuclip-a.akamaihd.net/exp=1583676025~acl=%2fb54aac727e2509c050d27ae7127be02d%2f*~data=cid%3d1165039941%2ciid%3df567842f-d2b9-4dc2-b38c-3960cd41afd7%2csid%3dakamai-ffb16640-2a00-426d-84c3-cada482ef567%2csiteId%3dviu%2cslotId%3dwebapp2%2cclientId%3dnone%2cn%3d1583661625039%2ch%3d90D37313B7338B7289E47E8A2092192E%2cip%3d103.78.115.69%2ccdnid%3dakamai%2ccdnprefix%3dgcpvuclip-a.akamaihd.net%2f~hmac=92b6a211d17b35c0f2358b18475bb2f8dfcd179aff1e8a36d543b4d94d97a552/b54aac727e2509c050d27ae7127be02d/vp63207_V20180916141658/hlsc_e2931_7.m3u8
 #EXTINF:-0 tvg-logo="https://awsimages.detik.net.id/customthumb/2015/01/19/229/codaelm.jpg?w=700&q=90" group-title="Indonesian Movies",3: Alif Lam Mim (2013)
-https://gcpvuclip-a.akamaihd.net/exp=1583674951~acl=%2f2adddbf4e3464f39e1ccf6f2efe1d86a%2f*~data=cid%3d1165550687%2ciid%3df567842f-d2b9-4dc2-b38c-3960cd41afd7%2csid%3dakamai-ea38444f-66d2-4e66-82d4-da92eea0ca43%2csiteId%3dviu%2cslotId%3dwebapp2%2cclientId%3dnone%2cn%3d1583660551362%2ch%3d17600E559FD200944C330FB8EF821B6B%2cip%3d103.78.115.69%2ccdnid%3dakamai%2ccdnprefix%3dgcpvuclip-a.akamaihd.net%2f~hmac=1aceb38e6e20fa12ce0617a83f610d15af8480bad2845c54f05660caf4aec289/2adddbf4e3464f39e1ccf6f2efe1d86a/vp63207_V20190205091953/hlsc_e2931_7.m3u8
+https://gcpvuclip-a.akamaihd.net/exp=1608987326~acl=%2f2adddbf4e3464f39e1ccf6f2efe1d86a%2f*~data=cid%3d1165550687%2csid%3d85999685-2a29-44b2-bed3-111c8d4e3116%2cclientId%3dnone%2cn%3d1608296126342%2ch%3d6709487D20FFB044F7D570D9EF991F02~hmac=9edb27b9f82db6a9dae014d9786174d1f8a9713e05919fd95a115fb7d7ba48dc/2adddbf4e3464f39e1ccf6f2efe1d86a/vp63207_V20190205091953/hlsc_e2931_7.m3u8
 #EXTINF:-0 tvg-logo="https://amiratthemovies.files.wordpress.com/2015/05/epen-cupen-the-movie-poster.jpg" group-title="Indonesian Movies",Epen Cupen the Movie (2015)
-https://gcpvuclip-a.akamaihd.net/exp=1583672572~acl=%2fb2b5df5cc4ea1b1748ef33b20bea9196%2f*~data=cid%3d1165523524%2ciid%3df567842f-d2b9-4dc2-b38c-3960cd41afd7%2csid%3dakamai-e6e99b93-9549-48b3-a883-486f30bbabcb%2csiteId%3dviu%2cslotId%3dwebapp2%2cclientId%3dnone%2cn%3d1583661592448%2ch%3dCB567D4963E0CF8AF636F3AC0A841EED%2cip%3d103.78.115.69%2ccdnid%3dakamai%2ccdnprefix%3dgcpvuclip-a.akamaihd.net%2f~hmac=563ebb342bd24b4e07dbb38ec6aaf4cfd56af87d8d2d33d9345da6263daa5c9c/b2b5df5cc4ea1b1748ef33b20bea9196/vp63207_V20190110095505/hlsc_e2931_7.m3u8
+https://gcpvuclip-a.akamaihd.net/exp=1608987758~acl=%2fb2b5df5cc4ea1b1748ef33b20bea9196%2f*~data=cid%3d1165523524%2csid%3ded3a7b87-f701-4331-83dc-56d927b850d5%2cclientId%3dnone%2cn%3d1608296558707%2ch%3dEAA86CF69E1FED52D1AF488923038366~hmac=ac6a9bef4887e11a82f999e77904a0866cc9f271e680c60fc4d171d9db128c1e/b2b5df5cc4ea1b1748ef33b20bea9196/vp63207_V20190110095505/hlsc_e2931_7.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Cahaya_Cinta_Pesantren.jpg" group-title="Indonesian Movies",Cahaya Cinta Pesantren (2016)
 https://gcpvuclip-a.akamaihd.net/exp=1583675555~acl=%2ff4437733968fff78d12e28fd9d08ecef%2f*~data=cid%3d1165092047%2ciid%3df567842f-d2b9-4dc2-b38c-3960cd41afd7%2csid%3dakamai-6c25a13e-0c46-4705-bb09-5f253839e198%2csiteId%3dviu%2cslotId%3dwebapp2%2cclientId%3dnone%2cn%3d1583661155568%2ch%3d6E3276AA863AFD9FF0347635AFD655F9%2cip%3d103.78.115.69%2ccdnid%3dakamai%2ccdnprefix%3dgcpvuclip-a.akamaihd.net%2f~hmac=a8d94a30f6979ed83f81f0fb073e3debb04c57e61404dc193304e64eb4219e88/f4437733968fff78d12e28fd9d08ecef/vp63207_V20181010231623/hlsc_e2931_7.m3u8
 #EXTINF:-0 tvg-logo="http://gg.gg/gundala-logo" group-title="Indonesian Movies",Gundala (2019)
@@ -321,69 +441,9 @@ https://www.googleapis.com/drive/v3/files/1e_85cbMA56j7GkItKHW865Irh1yjVEPf?alt=
 #EXTINF:-0 tvg-logo="http://gg.gg/si-doel-2-logo" group-title="Indonesian Movies",Si Doel the Movie 2 (2019)
 https://www.googleapis.com/drive/v3/files/18k5MMqNUDspM_6CT6MeS4yL-OuAK9uIM?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
 
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 1
-https://www.googleapis.com/drive/v3/files/1e6kIc0q8vOtTUEq2o3oBlrKicHbLS8wv?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 2
-https://www.googleapis.com/drive/v3/files/10L2uV0mYDLGCX8m02p7v4X_bPuwh4UoG?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 3
-https://www.googleapis.com/drive/v3/files/13jOlqzDAUguMTNDbcc5jRgT7xMJYIsgM?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 4
-https://www.googleapis.com/drive/v3/files/1d3N-OUI36FUXaOjPduot8fGyKpNbXzqG?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 5
-https://www.googleapis.com/drive/v3/files/11s_SjlCtVqFVGB6bQI-PueUblGOfvbgo?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 6
-https://www.googleapis.com/drive/v3/files/1qgW9Z5Nt8slBTqTcvhJQZJO9byVLM_Wa?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 7
-https://www.googleapis.com/drive/v3/files/1qQCfafb8LfoqjxIqIDfvBmWIVivuZ7a-?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 8
-https://www.googleapis.com/drive/v3/files/1-5DDzFjbrF1KiCWwJDgRVzRxw4Ab-lqj?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 9
-https://www.googleapis.com/drive/v3/files/1SAXgr_5Fbk4IN5-oOFH9F6kHts6Fy9f2?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 10
-https://www.googleapis.com/drive/v3/files/1IyA4DblqIUZhYAbSOpzZe8ESJ1xEq_F4?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 11
-https://www.googleapis.com/drive/v3/files/199LhNgErDU55j224xe3rgUcf33erBXT3?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 12
-https://www.googleapis.com/drive/v3/files/17DtompWzOYC3_AITWyZchaAdHtFV9lJH?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 13
-https://www.googleapis.com/drive/v3/files/1Kj5yythL_H6Ea-rasN8RWHOM1ViAOyja?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 14
-https://www.googleapis.com/drive/v3/files/1hXFYXxOY6dxPQsEgieo3hCmedIRmxb_I?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 15
-https://www.googleapis.com/drive/v3/files/1wN2sgVMGYZL6E1elHrNGnO2bv5kA8s5o?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 16
-https://www.googleapis.com/drive/v3/files/1F3PP6BrH0CTJ8tc8UU9BN4mQsfgv2sFm?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 17
-https://www.googleapis.com/drive/v3/files/1mSpZ0KuoUjJRee0wiCD0LpLbofWynou2?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 18
-https://www.googleapis.com/drive/v3/files/1ZQw2eSgq4HaszEzK_aYUzvJVKUFNg05X?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 19
-https://www.googleapis.com/drive/v3/files/1fIZFWYGc1__OFLv8OYm-jb0OJG2I-FRX?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 20
-https://www.googleapis.com/drive/v3/files/18tzkgMrYTShU2F5t8MGWjzz835r7h5Ug?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 21
-https://www.googleapis.com/drive/v3/files/1sz0lbg71hjMUW-fJ_dEz7PRWOY6_U7X5?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 22
-https://www.googleapis.com/drive/v3/files/1ut59e2h5Z0TCJfCdt9r4GeXrogLdkVzF?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 23
-https://www.googleapis.com/drive/v3/files/1WKAYA5UJlfvOKwanPTw6CxkacP0V4wwc?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 24
-https://www.googleapis.com/drive/v3/files/1coeykq3B2E8zWkk0iF9isQmeL43bBymm?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 25
-https://www.googleapis.com/drive/v3/files/13aIyOTnhxKVG8HGp09GRG2sczgKFojFP?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 26
-https://www.googleapis.com/drive/v3/files/1pBWrwjOdb8wJqu-mtm2Z-sPizmFRXoje?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 27
-https://www.googleapis.com/drive/v3/files/1Q-eo24uiWWYzvcHoIGHhOTWOsjhHYTLn?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 28
-https://www.googleapis.com/drive/v3/files/1w2Sif8w4DghmRf7l-qOf7NCKzh5XeuNg?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 29
-https://www.googleapis.com/drive/v3/files/11BVq7RPrUe2iso0Od2O-tkGEOhEESlIz?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-#EXTINF:-1 tvg-logo="https://blockbusterviral.files.wordpress.com/2017/07/img_5178.jpg?w=300" group-title="Islamic Series",Omar ibn Khattab - 30
-https://www.googleapis.com/drive/v3/files/145K3PYgN4FFDfIGriqqH5rOeGFES0URS?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#IslamicSeries
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tj0HFxSTL._RI_.jpg" group-title="Islamic Series",Al-Fatih 1453
 https://www.googleapis.com/drive/v3/files/19ZzYFNErjOA2bweF-in3FpQiTGKYXf7G?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
-
 
 #AnimeSeries
 #EXTINF:-0 tvg-logo="http://gg.gg/korra" group-title="Anime",Avatar The Legend of Korra E.1
