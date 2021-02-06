@@ -12,11 +12,11 @@ http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62207
 #EXTINF:0 tvg-logo="http://gg.gg/NETHD-LOGO" group-title="Indonesia",NET HD
 https://nonton.site:8443/live/novi/novi123/78.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Indonesia",RCTI
-http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62199
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="Indonesia",GTV
-http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62243
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Indonesia", MNCTV
-http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62214
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/Vu160Mig2HUGjzVyl1qV.jpg" group-title="Indonesia", INEWS
 http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62235
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Indonesia",SCTV
