@@ -13,17 +13,17 @@ https://www.googleapis.com/drive/v3/files/1sFYlx4CNJEFbZcq4yNXhLrXQ9thtUb2U?alt=
 
 #Indo
 #EXTINF:0 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/09/net_tv.jpg" group-title="Indonesia",NET
-http://portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62207
+http//portal.geniptv.com:8080/12hmg20021522/HeBv1XyEQr/62207
 #EXTINF:0 tvg-logo="http://gg.gg/NETHD-LOGO" group-title="Indonesia",NET HD
 https://nonton.site:8443/live/novi/novi123/78.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/WBgq8IhhBThy1W29gfXb_rec_small.png" group-title="Indonesia",RCTI
-http://185.238.0.145:1313/c/a/rcti-hd.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="Indonesia",GTV
-http://185.238.0.145:1313/c/a/gtv-hd.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/RijwYBF5XFZGFQxOJhrG.png" group-title="Indonesia", MNCTV
-http://185.238.0.145:1313/c/a/mnctv-hd.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id/live/image/Vu160Mig2HUGjzVyl1qV.jpg" group-title="Indonesia", INEWS
-http://185.238.0.145:1313/c/a/inews-hd.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png" group-title="Indonesia",SCTV
 https://nonton.site:8443/novi/novi123/931
 #EXTINF:0 tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png" group-title="Indonesia",INDOSIAR
